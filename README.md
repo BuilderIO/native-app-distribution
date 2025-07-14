@@ -4,16 +4,18 @@
 
 ## Installation
 
+> **Prerequisites:** Install GitHub CLI and authenticate: `gh auth login`
+
 ### macOS
 ```bash
-curl -L -o "Builder.io.dmg" "https://github.com/BuilderIO/native-app-distribution/releases/download/v2025.07.14-prerelease/Builder.io-v2025.07.14-prerelease.dmg"
-open Builder.io.dmg
+gh release download "v2025.07.14-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "*.dmg"
+open Builder.io-*.dmg
 ```
 
 ### Windows  
 ```bash
-curl -L -o "Builder.io-Setup.exe" "https://github.com/BuilderIO/native-app-distribution/releases/download/v2025.07.14-prerelease/Builder.io Setup v2025.07.14-prerelease.exe"
-./Builder.io-Setup.exe
+gh release download "v2025.07.14-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "*.exe"
+./Builder.io*.exe
 ```
 
 ---
