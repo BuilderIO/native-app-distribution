@@ -18,4 +18,4 @@ curl -L -o "Builder.io-Setup.exe" "https://github.com/BuilderIO/native-app-distr
 
 ---
 
-*Download via terminal to avoid security warnings on macOS*
+*Made with ❤️ by the Builder.io team*
