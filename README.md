@@ -6,7 +6,7 @@
 
 > **Prerequisites:** Install GitHub CLI and authenticate: `gh auth login`
 
-### macOS (Apple Silicon - M1/M2/M3)
+### macOS (Apple Silicon - M1/M2/M3/etc)
 ```bash
 gh release download "v2025.07.15-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "*arm64*.dmg"
 open Builder.io-*arm64*.dmg
