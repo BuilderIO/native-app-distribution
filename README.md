@@ -8,20 +8,20 @@
 
 ### macOS (Apple Silicon - M1/M2/M3)
 ```bash
-gh release download "v2025.07.21-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.1.0-arm64.dmg"
-open Builder.io-0.1.0-arm64.dmg
+gh release download "v2025.07.29-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.1.14-arm64.dmg"
+open Builder.io-0.1.14-arm64.dmg
 ```
 
 ### macOS (Intel)
 ```bash
-gh release download "v2025.07.21-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.1.0.dmg"
-open Builder.io-0.1.0.dmg
+gh release download "v2025.07.29-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.1.14.dmg"
+open Builder.io-0.1.14.dmg
 ```
 
 ### Windows  
 ```bash
-gh release download "v2025.07.21-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io Setup 0.1.0.exe"
-./"Builder.io Setup 0.1.0.exe"
+gh release download "v2025.07.29-prerelease" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io Setup 0.1.14.exe"
+./"Builder.io Setup 0.1.14.exe"
 ```
 
 ---
