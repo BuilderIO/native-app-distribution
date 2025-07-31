@@ -7,7 +7,7 @@
 **Direct Download Links:**
 - 🍎 **macOS (Apple Silicon)**: [Download Builder.io-0.1.18-arm64.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.18-alpha/Builder.io-0.1.18-arm64.dmg)
 - 🍎 **macOS (Intel)**: [Download Builder.io-0.1.18.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.18-alpha/Builder.io-0.1.18.dmg)  
-- 🪟 **Windows**: [Download Builder.io Setup 0.1.18.exe](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.18-alpha/Builder.io Setup 0.1.18.exe)
+- 🪟 **Windows**: [Download Builder.io Setup 0.1.18.exe](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.18-alpha/Builder.io.Setup.0.1.18.exe)
 
 ## Installation via GitHub CLI (Optional)
 
