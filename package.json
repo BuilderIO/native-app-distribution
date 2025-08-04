@@ -1,0 +1,25 @@
+{
+  "name": "builder-io-native-app-distribution",
+  "version": "0.1.25",
+  "description": "Builder.io Desktop App Distribution Repository",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "build": "echo 'No build process needed for distribution repo'",
+    "test": "echo 'No tests specified'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BuilderIO/native-app-distribution.git"
+  },
+  "keywords": [
+    "builder.io",
+    "desktop-app",
+    "distribution"
+  ],
+  "author": "Builder.io",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
