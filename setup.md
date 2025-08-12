@@ -44,7 +44,7 @@ To change your Fusion execution environment:
 
 ## Getting Started
 
-1. **Install Builder Desktop** if you haven't already
+1. **Install [Builder Desktop](https://github.com/BuilderIO/native-app-distribution/blob/main/README.md#quick-download)** if you haven't already
 2. **Configure your execution environment** in Labs settings (we recommend "Local Machine")
 3. **Create or open a Fusion project** to start developing with improved performance
 4. **Enjoy faster iteration cycles** with local execution
