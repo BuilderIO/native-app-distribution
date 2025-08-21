@@ -6,7 +6,10 @@ Builder Desktop provides multiple options for running Fusion projects, giving yo
 
 Builder Desktop offers three ways to run your Fusion projects:
 
-### 1. Local Machine (Container-less) - **Recommended**
+### 1. Cloud Containers
+Run fusion projects in cloud containers, same as our web app.
+
+### 2. Local Machine (Container-less)
 
 Run Fusion projects directly on your local machine without containerization.
 
@@ -20,7 +23,7 @@ Run Fusion projects directly on your local machine without containerization.
 - May require additional tools depending on your project
 - These are typically already installed on most development machines
 
-### 2. Local Containers (Podman)
+### 4. Local Containers (Docker)
 
 Run Fusion projects in isolated local Podman containers.
 
