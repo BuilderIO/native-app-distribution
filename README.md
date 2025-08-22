@@ -5,9 +5,9 @@
 ## Quick Download
 
 **Direct Download Links:**
-- 🍎 **macOS (Apple Silicon)**: [Download Builder.io-0.1.31-arm64.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.31-alpha/Builder.io-0.1.31-arm64.dmg)
-- 🍎 **macOS (Intel)**: [Download Builder.io-0.1.31.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.31-alpha/Builder.io-0.1.31.dmg)  
-- 🪟 **Windows**: [Download Builder.io Setup 0.1.31.exe](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.31-alpha/Builder.io.Setup.0.1.31.exe)
+- 🍎 **macOS (Apple Silicon)**: [Download Builder.io-0.1.34-arm64.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.34-alpha/Builder.io-0.1.34-arm64.dmg)
+- 🍎 **macOS (Intel)**: [Download Builder.io-0.1.34.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.34-alpha/Builder.io-0.1.34.dmg)  
+- 🪟 **Windows**: [Download Builder.io Setup 0.1.34.exe](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.1.34-alpha/Builder.io.Setup.0.1.34.exe)
 
 ## Installation via GitHub CLI (Optional)
 
@@ -20,20 +20,20 @@ gh auth login
 
 ### macOS (Apple Silicon - M1/M2/M3)
 ```bash
-gh release download "v0.1.31-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.1.31-arm64.dmg"
-open Builder.io-0.1.31-arm64.dmg
+gh release download "v0.1.34-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.1.34-arm64.dmg"
+open Builder.io-0.1.34-arm64.dmg
 ```
 
 ### macOS (Intel)
 ```bash
-gh release download "v0.1.31-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.1.31.dmg"
-open Builder.io-0.1.31.dmg
+gh release download "v0.1.34-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.1.34.dmg"
+open Builder.io-0.1.34.dmg
 ```
 
 ### Windows  
 ```bash
-gh release download "v0.1.31-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io Setup 0.1.31.exe"
-./"Builder.io Setup 0.1.31.exe"
+gh release download "v0.1.34-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io Setup 0.1.34.exe"
+./"Builder.io Setup 0.1.34.exe"
 ```
 
 ---
