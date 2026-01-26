@@ -5,9 +5,9 @@
 ## Quick Download
 
 **Direct Download Links:**
-- 🍎 **macOS (Apple Silicon)**: [Download Builder.io-0.2.36-arm64.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.2.36-alpha/Builder.io-0.2.36-arm64.dmg)
-- 🍎 **macOS (Intel)**: [Download Builder.io-0.2.36.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.2.36-alpha/Builder.io-0.2.36.dmg)  
-- 🪟 **Windows**: [Download BuilderInstaller.exe](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.2.36-alpha/BuilderInstaller.exe)
+- 🍎 **macOS (Apple Silicon)**: [Download Builder.io-0.2.37-arm64.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.2.37-alpha/Builder.io-0.2.37-arm64.dmg)
+- 🍎 **macOS (Intel)**: [Download Builder.io-0.2.37.dmg](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.2.37-alpha/Builder.io-0.2.37.dmg)  
+- 🪟 **Windows**: [Download BuilderInstaller.exe](https://github.com/BuilderIO/native-app-distribution/releases/download/v0.2.37-alpha/BuilderInstaller.exe)
 
 ## Installation via GitHub CLI (Optional)
 
@@ -20,19 +20,19 @@ gh auth login
 
 ### macOS (Apple Silicon - M1/M2/M3)
 ```bash
-gh release download "v0.2.36-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.2.36-arm64.dmg"
-open Builder.io-0.2.36-arm64.dmg
+gh release download "v0.2.37-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.2.37-arm64.dmg"
+open Builder.io-0.2.37-arm64.dmg
 ```
 
 ### macOS (Intel)
 ```bash
-gh release download "v0.2.36-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.2.36.dmg"
-open Builder.io-0.2.36.dmg
+gh release download "v0.2.37-alpha" --repo "BuilderIO/native-app-distribution" --pattern "Builder.io-0.2.37.dmg"
+open Builder.io-0.2.37.dmg
 ```
 
 ### Windows  
 ```bash
-gh release download "v0.2.36-alpha" --repo "BuilderIO/native-app-distribution" --pattern "BuilderInstaller.exe"
+gh release download "v0.2.37-alpha" --repo "BuilderIO/native-app-distribution" --pattern "BuilderInstaller.exe"
 ./"BuilderInstaller.exe"
 ```
 
